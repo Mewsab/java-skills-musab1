@@ -5,22 +5,7 @@ Welcome to my solution for the **Junior Java Developer Skills Assessment**. This
 
 ## 📁 Project Structure
 
-java-skills-musab1/
-├── src/ # All .java files exist within the source file that will later be organised by branches.
-│ ├── UserInfo.java
-│ ├── PayrollCalculator.java
-│ ├── GradeManager.java
-│ ├── TextProcessor.java
-│ ├── Book.java
-│ | ├── Textbook.java
-│ | ├── MainLibrary.java
-│ ├── VisitorCounter.java
-│ ├── ShoppingCart.java
-│ └── PatternMaker.java
-├── compile.bat # Windows batch script to compile all .java files
-├── .gitignore # Excludes compiled files and IDE-specific files
-├── README.md # This file
-└── SOLUTIONS.md # My learnings and reflections of this assessment.
+<pre> ```plaintext java-skills-musab1/ ├── src/ # All .java files exist within the source file that will later be organised by branches. │ ├── UserInfo.java │ ├── PayrollCalculator.java │ ├── GradeManager.java │ ├── TextProcessor.java │ ├── Book.java │ │ ├── Textbook.java │ │ ├── MainLibrary.java │ ├── VisitorCounter.java │ ├── ShoppingCart.java │ └── PatternMaker.java ├── compile.bat # Windows batch script to compile all .java files ├── .gitignore # Excludes compiled files and IDE-specific files ├── README.md # This file └── SOLUTIONS.md # My learnings and reflections of this assessment. ``` </pre>
 
 ## 🚀 About the Assessment
 
